@@ -5,6 +5,7 @@ March 06, 2022
 Project Title
 
 1 - Boston House Price Prediction
+
 2 - Hotel Booking Cancellation Prediction
 
 Description
